@@ -1,2 +1,2 @@
 # tale
-修复过后的tale博客
+切换到master分支
